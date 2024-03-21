@@ -48,7 +48,9 @@ class TrainAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-03-19 at 09 57 51_78ff9fc0](https://github.com/NagalapuramHasif/ORM/assets/149365567/29e0cdf8-924e-4df7-9909-fb80cf536854)
+
+![WhatsApp Image 2024-03-21 at 13 17 42_74fcd289](https://github.com/NagalapuramHasif/ORM/assets/149365567/0a132698-15db-4541-82bd-e123dc869ea9)
+
 
 
 ## RESULT
